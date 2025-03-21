@@ -24,7 +24,8 @@ result = np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![alt text](<Screenshot 2025-03-13 135254.png>)
+![image](https://github.com/user-attachments/assets/1d4b8d10-0218-4a43-9cda-46c9a547a831)
+
 
 
 ## Result: 
